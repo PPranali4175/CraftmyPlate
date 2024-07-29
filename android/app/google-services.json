@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356313837502",
+    "project_id": "phone-firebase-ff51a",
+    "storage_bucket": "phone-firebase-ff51a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356313837502:android:59ace495ae42af90f9d3ef",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA53bq61FOo_3acpnCiv2FZ0-9yvqopyg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356313837502:android:4e7d99385b5a622ff9d3ef",
+        "android_client_info": {
+          "package_name": "com.mandacorp.craftmyplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA53bq61FOo_3acpnCiv2FZ0-9yvqopyg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
